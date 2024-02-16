@@ -1,0 +1,11 @@
+1. Why is it called a pseudo-class?
+Ans:
+A pseudo-class in CSS is called so because it's not a class that you explicitly define in the HTML markup or the CSS. Instead, it's a keyword added to selectors that specifies a special state of the selected elements. For example, :hover is a pseudo-class that applies styles to an element when the mouse pointer is over it.
+
+2. What are gradients in CSS?
+Ans:
+Gradients in CSS are a way to display smooth transitions between two or more specified colors. There are two types of gradients in CSS: linear gradients (transitions along a straight line) and radial gradients (transitions in a circular pattern).
+
+3. What are different types of transitions in CSS?
+Ans:
+CSS transitions provide a way to control animation speed when changing CSS properties. They allow elements smoothly to change from one style to another over a specified duration. The properties that can be transitioned include transition-property (the CSS property to transition), transition-duration (how long the transition effect should last), transition-timing-function (the speed curve of the transition effect), and transition-delay (when the transition effect will start).

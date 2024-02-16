@@ -1,0 +1,47 @@
+1. Explain the Table and its properties.
+Ans:
+A table in HTML is used to display data in a tabular format. It has several properties, including:
+
+<table>: This is the main tag that starts and ends a table.
+<tr>: Table Row. This tag is used to create a new row in the table.
+<td>: Table Data. This tag is used to create a new data cell in a row.
+<th>: Table Header. This tag is used to create a header cell in a row.
+2. Explain all Media elements and how they work.
+Ans:
+Media elements in HTML are used to embed media content in a webpage. The main media elements are:
+
+<img>: Used to embed images.
+<audio>: Used to embed sound content.
+<video>: Used to embed video content.
+<source>: Used to specify multiple media resources for media elements, like <video> and <audio>.
+
+3. What is Get and Post in Form?
+Ans:
+GET and POST are two different HTTP methods used in HTML forms:
+
+GET: Appends form-data into the URL in name/value pairs. It's used for fetching documents.
+POST: Sends form-data as HTTP message body. It's used for updating data.
+
+4. List all the input types we have in forms.
+Ans:
+HTML forms support a variety of input types, including:
+
+text
+password
+submit
+radio
+checkbox
+button
+color
+date
+email
+file
+hidden
+image
+number
+range
+reset
+search
+tel
+url
+week

@@ -1,0 +1,15 @@
+1. What is CSS and why use it?
+Ans:
+CSS (Cascading Style Sheets) is a stylesheet language used for describing the look and formatting of a document written in HTML or XML. It is used to separate content from presentation, allowing for flexibility and control in the specification of presentation characteristics. It also enables multiple pages to share formatting, and reduces complexity and repetition in the structural content.
+
+2. What are the different ways to bring CSS into an HTML file?
+Ans:
+There are three ways to bring CSS into an HTML file:
+
+Inline CSS: CSS rules are applied directly within the HTML tags using the style attribute.
+Internal CSS: CSS rules are included in the <head> section of the HTML file within a <style> tag.
+External CSS: CSS rules are written in a separate file with a .css extension, which is linked to the HTML file using a <link> tag.
+
+3. What do you mean by specificity in CSS?
+Ans:
+Specificity in CSS is a measure of the weight of a given CSS rule. It determines which rules apply when multiple rules could apply to a certain element. It is calculated based on the different kinds of selectors in a rule: ID selectors have the highest specificity, followed by class selectors, and then by type selectors. If two rules have the same specificity, the one that comes last in the CSS code will be used.
